@@ -1,7 +1,7 @@
 {
 	"geode": "5.7.1",
 	"version": "0.1.1",
-	"id": "user.jukebox-search",
+	"id": "mrcatplay.jukebox-search",
 	"name": "Jukebox Search",
 	"gd": {
 		"win": "2.2081",
