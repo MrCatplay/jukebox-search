@@ -1,0 +1,19 @@
+{
+	"geode": "5.7.1",
+	"version": "1.0.0",
+	"id": "user.jukebox-search",
+	"name": "Jukebox Search",
+	"gd": {
+		"win": "2.2081",
+		"mac": "2.2081",
+		"android": "2.2081",
+		"ios": "2.2081"
+	},
+	"developers": ["MrCatplay"],
+	"logo": "logo.png",
+	"description": "Adds search by song name to Jukebox",
+	"tags": ["music", "utility", "interface"],
+	"dependencies": {
+		"fleym.nongd": ">=3.6.0"
+	}
+}
