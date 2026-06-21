@@ -1,6 +1,6 @@
 {
 	"geode": "5.7.1",
-	"version": "1.0.0",
+	"version": "0.1.1",
 	"id": "user.jukebox-search",
 	"name": "Jukebox Search",
 	"gd": {
@@ -10,7 +10,6 @@
 		"ios": "2.2081"
 	},
 	"developers": ["MrCatplay"],
-	"logo": "logo.png",
 	"description": "Adds search by song name to Jukebox",
 	"tags": ["music", "utility", "interface"],
 	"dependencies": {

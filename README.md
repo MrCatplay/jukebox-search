@@ -1,6 +1,6 @@
 # Jukebox Search
 
-<img src="./resources/logo.png" alt="Jukebox Search logo" />
+<img src="logo.png" alt="Jukebox Search logo" />
 
 Jukebox Search is an addon for [Jukebox](https://geode-sdk.org/mods/fleym.nongd) that adds a search bar to the song management popup, letting you find songs by name instantly.
 
